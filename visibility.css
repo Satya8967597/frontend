@@ -1,0 +1,15 @@
+h2.a {
+    /*here is the code for making an element visible of hidden as you can see*/
+    visibility: visible;
+  }
+
+  h2.b {
+    visibility: hidden;
+  }
+  tr.collapse {
+    visibility: collapse;
+  }
+  table,
+  td {
+    border: 1px solid black;
+  }
